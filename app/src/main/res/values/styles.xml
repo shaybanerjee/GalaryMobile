@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary"> @color/colorPrimary </item>
+        <item name="android:colorPrimaryDark"> @color/colorPrimaryDark </item>
+        <item name="android:colorAccent"> @color/colorAccent </item>
+    </style>
+    <style name="ToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColorPrimary"> @android:color/white </item>
+        <item name="android:textColorSecondary"> @android:color/holo_green_light </item>
+
+
+
+    </style>
+
+    <style name="CustomToolbarStyle" parent = "Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name = "android:background"> @color/colorPrimary</item>
+    </style>
+
+    <style name="FullScreen" parent="android:Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+</resources>
