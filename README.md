@@ -1,4 +1,4 @@
-<h1> Assignment 4 (Code found inside a4/ directory)</h1> 
+<h1> Project Details: </h1> 
 A interactive mobile application that allows users to load, display images in a dynamic layout.
 A rating system is in place to allow users to rate (1-5), and filter images. Mobile implementation of A3.
 
