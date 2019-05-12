@@ -3,7 +3,6 @@ A interactive mobile application that allows users to load, display images in a 
 A rating system is in place to allow users to rate (1-5), and filter images. Mobile implementation of A3.
 
 <ul>
-    <li> Application title is Fotag (s23baner), where s23baner is my Quest ID </li> 
     <li> The application starts with a toolbar with clear, load, filter, reset buttons, and an empty list (image grid). </li>
     <li> The toolbar has a clear button, load button, and a filter widget </li> 
     <li> Filter images will allow users to show images that have atleast that filter rating </li>
@@ -21,7 +20,6 @@ The application can be run using the .apk file which is in the a4 folder.
 <h1> Enhancements </h1>
 Adding a search button (bottom left of application), users can enter a URI of an image on the web. 
 If the image exists, it will be loaded and added to bottom of the list. Search can be done multiple times.
-Bonus worth 5%. 
 
 
 <h1> Developement Env </h1> 
